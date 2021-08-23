@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/climate-globe/static/css/main.13781e6d.chunk.css",
-    "main.js": "/climate-globe/static/js/main.3cda2cd0.chunk.js",
-    "main.js.map": "/climate-globe/static/js/main.3cda2cd0.chunk.js.map",
-    "runtime-main.js": "/climate-globe/static/js/runtime-main.735206e8.js",
-    "runtime-main.js.map": "/climate-globe/static/js/runtime-main.735206e8.js.map",
-    "static/js/2.0538b20f.chunk.js": "/climate-globe/static/js/2.0538b20f.chunk.js",
-    "static/js/2.0538b20f.chunk.js.map": "/climate-globe/static/js/2.0538b20f.chunk.js.map",
-    "static/js/3.c9e5fdba.chunk.js": "/climate-globe/static/js/3.c9e5fdba.chunk.js",
-    "static/js/3.c9e5fdba.chunk.js.map": "/climate-globe/static/js/3.c9e5fdba.chunk.js.map",
-    "index.html": "/climate-globe/index.html",
-    "static/css/main.13781e6d.chunk.css.map": "/climate-globe/static/css/main.13781e6d.chunk.css.map",
-    "static/js/2.0538b20f.chunk.js.LICENSE.txt": "/climate-globe/static/js/2.0538b20f.chunk.js.LICENSE.txt"
+    "main.css": "/climate-globe-deployed/static/css/main.13781e6d.chunk.css",
+    "main.js": "/climate-globe-deployed/static/js/main.3cda2cd0.chunk.js",
+    "main.js.map": "/climate-globe-deployed/static/js/main.3cda2cd0.chunk.js.map",
+    "runtime-main.js": "/climate-globe-deployed/static/js/runtime-main.e57959a0.js",
+    "runtime-main.js.map": "/climate-globe-deployed/static/js/runtime-main.e57959a0.js.map",
+    "static/js/2.0538b20f.chunk.js": "/climate-globe-deployed/static/js/2.0538b20f.chunk.js",
+    "static/js/2.0538b20f.chunk.js.map": "/climate-globe-deployed/static/js/2.0538b20f.chunk.js.map",
+    "static/js/3.c9e5fdba.chunk.js": "/climate-globe-deployed/static/js/3.c9e5fdba.chunk.js",
+    "static/js/3.c9e5fdba.chunk.js.map": "/climate-globe-deployed/static/js/3.c9e5fdba.chunk.js.map",
+    "index.html": "/climate-globe-deployed/index.html",
+    "static/css/main.13781e6d.chunk.css.map": "/climate-globe-deployed/static/css/main.13781e6d.chunk.css.map",
+    "static/js/2.0538b20f.chunk.js.LICENSE.txt": "/climate-globe-deployed/static/js/2.0538b20f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.735206e8.js",
+    "static/js/runtime-main.e57959a0.js",
     "static/js/2.0538b20f.chunk.js",
     "static/css/main.13781e6d.chunk.css",
     "static/js/main.3cda2cd0.chunk.js"
