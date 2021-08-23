@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To view the live site visit: [https://msarauer.github.io/climate-globe-deployed/](https://msarauer.github.io/climate-globe-deployed/)
+
 ## Available Scripts
 
 In the project directory, you can run:

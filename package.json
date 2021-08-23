@@ -1,6 +1,6 @@
 {
   "name": "climate-globe",
-  "homepage": "https://msarauer.github.io/climate-globe/",
+  "homepage": "https://msarauer.github.io/climate-globe-deployed/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
