@@ -1,48 +1,54 @@
-# Getting Started with Create React App
+!["Screenshot of URLs page"](https://github.com/msarauer/better-place/blob/master/docs/better-place.png?raw=true)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
 
-To view the live site visit: [https://msarauer.github.io/climate-globe-deployed/](https://msarauer.github.io/climate-globe-deployed/)
+This project is a 3D rendered globe that aims to show global temperature changes over time. Various graphs of green house gas concentrations are also added to reinforce the main message being climate change.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+The following features have been implemented in our application as of July 17, 2021:
 
-### `yarn start`
+- View a 3D rendered globe
+- View various graphs of green house gas emissions
+- Data scraped from online database and formatted to render correctly on globe
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tech Stack
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Language: TypeScript
+- Framework: React
+- Component Libraries: Material UI, react-globe.gl, d3
+- CSS Preprocessor: Sass
 
-### `yarn test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Profile/Login comes out from the side of the application, with a smooth transition.
 
-### `yarn build`
+!["Screenshot of URLs page"](https://github.com/msarauer/better-place/blob/master/docs/profile.png?raw=true)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Dynamic list of volunteer opportunities that can be filtered and sorted by location, time commitment, distance, category and search term.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+!["Screenshot of register page"](https://github.com/msarauer/better-place/blob/master/docs/list.png?raw=true)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Switch to a map visual of all the data in the opportunity list with all the same filtering and sorting capabilities.
 
-### `yarn eject`
+!["Screenshot of register page"](https://github.com/msarauer/better-place/blob/master/docs/map.png?raw=true)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Create a new opportunity with a title, description, address, category, and time commitment that volunteers can then sign up for.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+!["Screenshot of register page"](https://github.com/msarauer/better-place/blob/master/docs/new.png?raw=true)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Setup
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Install dependencies with 
 
-## Learn More
+```sh
+yarn
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Start Project
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+From the root directory
+
+```sh
+yarn run start
+```
