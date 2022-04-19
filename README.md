@@ -23,19 +23,19 @@ The following features have been implemented in our application as of July 17, 2
 
 ### Profile/Login comes out from the side of the application, with a smooth transition.
 
-!["Screenshot of URLs page"](https://github.com/msarauer/better-place/blob/master/docs/profile.png?raw=true)
+!["Screenshot of URLs page"](https://github.com/mphbo/climate-globe/blob/master/public/1.png?raw=true)
 
 ### Dynamic list of volunteer opportunities that can be filtered and sorted by location, time commitment, distance, category and search term.
 
-!["Screenshot of register page"](https://github.com/msarauer/better-place/blob/master/docs/list.png?raw=true)
+!["Screenshot of register page"](https://github.com/mphbo/climate-globe/blob/master/public/2.png?raw=true)
 
 ### Switch to a map visual of all the data in the opportunity list with all the same filtering and sorting capabilities.
 
-!["Screenshot of register page"](https://github.com/msarauer/better-place/blob/master/docs/map.png?raw=true)
+!["Screenshot of register page"](https://github.com/mphbo/climate-globe/blob/master/public/3.png?raw=true)
 
 ### Create a new opportunity with a title, description, address, category, and time commitment that volunteers can then sign up for.
 
-!["Screenshot of register page"](https://github.com/msarauer/better-place/blob/master/docs/new.png?raw=true)
+!["Screenshot of register page"](https://github.com/mphbo/climate-globe/blob/master/public/4.png?raw=true)
 
 ## Setup
 
