@@ -1,4 +1,4 @@
-Project is deployed with github pages and is live at https://msarauer.github.io/climate-globe-deployed/
+Project is deployed with github pages at https://msarauer.github.io/climate-globe-deployed/
 
 # Description
 
