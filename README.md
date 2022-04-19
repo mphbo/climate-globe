@@ -39,7 +39,7 @@ The following features have been implemented in our application as of July 17, 2
 
 ## Setup
 
-Install dependencies with 
+From the root directory install dependencies with 
 
 ```sh
 yarn
