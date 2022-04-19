@@ -1,4 +1,4 @@
-!["Screenshot of URLs page"](https://github.com/msarauer/better-place/blob/master/docs/better-place.png?raw=true)
+Project is deployed with github pages and is live at https://msarauer.github.io/climate-globe-deployed/
 
 # Description
 
@@ -21,19 +21,19 @@ The following features have been implemented in our application as of July 17, 2
 
 ## Screenshots
 
-### Profile/Login comes out from the side of the application, with a smooth transition.
+### Main view of globe in dark mode.
 
 !["Screenshot of URLs page"](https://github.com/mphbo/climate-globe/blob/master/public/1.png?raw=true)
 
-### Dynamic list of volunteer opportunities that can be filtered and sorted by location, time commitment, distance, category and search term.
+### Main view of globe in light mode.
 
 !["Screenshot of register page"](https://github.com/mphbo/climate-globe/blob/master/public/2.png?raw=true)
 
-### Switch to a map visual of all the data in the opportunity list with all the same filtering and sorting capabilities.
+### First example of charts of global gas emissions over time.
 
 !["Screenshot of register page"](https://github.com/mphbo/climate-globe/blob/master/public/3.png?raw=true)
 
-### Create a new opportunity with a title, description, address, category, and time commitment that volunteers can then sign up for.
+### Second example of charts of global gas emissions over time.
 
 !["Screenshot of register page"](https://github.com/mphbo/climate-globe/blob/master/public/4.png?raw=true)
 
